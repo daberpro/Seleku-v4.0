@@ -1,3 +1,5 @@
+test-resource/*
+
 # Logs
 logs
 *.log

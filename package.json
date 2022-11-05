@@ -1,0 +1,25 @@
+{
+  "name": "seleku-v4.0",
+  "version": "0.0.1",
+  "description": "Seleku is a web frontend framework, using real DOM (Document Object Model) to work, and implement reactivity inside it, which make it faster and minimalist",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "compile": "node compiler/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daberpro/Seleku-v4.0.git"
+  },
+  "keywords": [
+    "Seleku",
+    "seleku-kit",
+    "daberdev"
+  ],
+  "author": "daber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daberpro/Seleku-v4.0/issues"
+  },
+  "homepage": "https://github.com/daberpro/Seleku-v4.0#readme"
+}
